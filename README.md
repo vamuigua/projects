@@ -19,5 +19,5 @@ Ionicons
 Font Awesome
 _________________
 **Contributors**
-Victor Allen
+[Victor Allen](https://github.com/vamuigua)
 _________________
