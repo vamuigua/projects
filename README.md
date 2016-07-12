@@ -17,9 +17,11 @@ Its includes:
 </ul>
 _________________
 **Tools**
-Foundation
-Ionicons
-Font Awesome
+<ul>
+<li>Foundation</li>
+<li>Ionicons</li>
+<li>Font Awesome</li>
+</ul>
 _________________
 **Contributors**
 [Victor Allen](https://github.com/vamuigua)
