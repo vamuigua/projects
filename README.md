@@ -2,13 +2,13 @@
 This is a project repository my personal and group projects.
 
 #Pixart<br>
-**Project Details**
+**Project Details**<br>
 Pixart is a Webdesign agency that focuses on creative art experiences for websites.
 _________________
-**Link to Repo**
+**Link to Repo**<br>
 https://github.com/vamuigua/pixart
 _________________
-**Features**
+**Features**<br>
 Its includes:
 <ul>
 <li>Home page</li>
