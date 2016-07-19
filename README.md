@@ -1,9 +1,7 @@
 # Personal Website
-_________________
 This is a personal website containin my portfolio/projects.
 
 **Website Details**<br>
-_________________
 <ul>
 <li>About me</li>
 <li>My Projects/Portfolio</li>
@@ -11,8 +9,6 @@ _________________
 </ul>
 
 **Link to Website**<br>
-
-_________________
 
 # My Projects
 This is a project repository my personal and group projects.
