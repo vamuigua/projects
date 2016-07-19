@@ -1,9 +1,25 @@
+# Personal Website
+_________________
+This is a personal website containin my portfolio/projects.
+
+**Website Details**<br>
+_________________
+<ul>
+<li>About me</li>
+<li>My Projects/Portfolio</li>
+<li>My Contacts</li>
+</ul>
+
+**Link to Website**<br>
+
+_________________
+
 # My Projects
 This is a project repository my personal and group projects.
 
 #Pixart<br>
 **Project Details**<br>
-Pixart is a Webdesign agency that focuses on creative art experiences for websites.
+Pixart is a Web-design agency that focuses on creative art experiences for websites.
 _________________
 **Link to Repo**<br>
 https://github.com/vamuigua/pixart
