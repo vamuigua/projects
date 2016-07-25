@@ -9,7 +9,7 @@ This is a personal website containing my portfolio.
 </ul>
 
 **Link to Repo**<br>
-[ALLEN_ONE](http://my-site.bitballoon.com)
+https://github.com/vamuigua/My-site.git
 _________________
 
 # My Projects
@@ -30,7 +30,7 @@ Its includes:
 <li>Contacts page</li>
 </ul>
 _________________
-**Tools**
+**Tools used**
 <ul>
 <li>Foundation</li>
 <li>Ionicons</li>
@@ -41,4 +41,31 @@ _________________
 [Victor Allen](https://github.com/vamuigua)
 _________________
 
-#
+#Manchester United FC<br>
+**Project Details**<br>
+Manchester United FC is an official website having details pertaining the current status and updates on the club.
+_________________
+**Link to Repo**<br>
+https://github.com/vamuigua/man-united.git
+_________________
+**Features**<br>
+It includes:
+<ul>
+<li>Leagues</li>
+<li>The Squad</li>
+<li>News & Fixtures</li>
+<li>Club Info</li>
+<li>Tickets</li>
+<li>Sign Up</li>
+</ul>
+_________________
+**Tools used**
+<li>Foundation</li>
+<li>Ionicons</li>
+<li>Font Awesome</li>
+</ul>
+_________________
+**Contributors**
+[Victor Allen](https://github.com/vamuigua)
+_________________
+
